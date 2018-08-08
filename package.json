@@ -1,0 +1,20 @@
+{
+  "name": "react-redux-ts-sample",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-redux-ts-sample",
+  "dependencies": {
+    "react": "16.2.0",
+    "redux": "4.0.0",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.7",
+    "redux-thunk": "2.3.0",
+    "@types/react": "16.0.31",
+    "@types/redux": "3.6.31",
+    "redux-actions": "2.6.1",
+    "@types/react-dom": "16.0.3",
+    "@types/react-redux": "6.0.0",
+    "@types/redux-thunk": "2.1.32",
+    "@types/redux-actions": "2.3.0"
+  },
+  "version": "1.0.0"
+}
